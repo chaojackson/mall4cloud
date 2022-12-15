@@ -5,7 +5,7 @@ import com.mall4j.cloud.common.database.dto.PageDTO;
 
 /**
  * 分页适配
- * @author FrozenWatermelon
+ * @author zyc
  */
 public class PageAdapter {
 

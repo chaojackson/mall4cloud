@@ -3,7 +3,7 @@ package com.mall4j.cloud.user.vo;
 import io.swagger.annotations.ApiModelProperty;
 
 /**
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2021/2/25
  */
 public class UserSimpleInfoVO {

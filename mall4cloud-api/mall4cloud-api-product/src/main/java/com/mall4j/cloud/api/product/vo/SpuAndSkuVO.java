@@ -3,7 +3,7 @@ package com.mall4j.cloud.api.product.vo;
 import io.swagger.annotations.ApiModelProperty;
 
 /**
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/12/8
  */
 public class SpuAndSkuVO {

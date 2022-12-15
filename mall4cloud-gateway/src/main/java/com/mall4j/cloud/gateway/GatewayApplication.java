@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/7/23
  */
 @SpringBootApplication(scanBasePackages = { "com.mall4j.cloud" })

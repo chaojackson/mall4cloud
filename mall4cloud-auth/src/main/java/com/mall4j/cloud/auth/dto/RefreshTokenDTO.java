@@ -7,7 +7,7 @@ import javax.validation.constraints.NotBlank;
 /**
  * 刷新token
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/7/1
  */
 public class RefreshTokenDTO {

@@ -5,7 +5,7 @@ import com.mall4j.cloud.api.auth.bo.UserInfoInTokenBO;
 /**
  * 用于校验的用户信息
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/7/3
  */
 public class AuthAccountInVerifyBO extends UserInfoInTokenBO {

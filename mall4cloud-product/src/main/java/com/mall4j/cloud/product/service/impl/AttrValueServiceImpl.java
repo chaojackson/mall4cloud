@@ -22,7 +22,7 @@ import java.util.stream.Collectors;
 /**
  * 属性值信息
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020-10-28 15:27:24
  */
 @Service

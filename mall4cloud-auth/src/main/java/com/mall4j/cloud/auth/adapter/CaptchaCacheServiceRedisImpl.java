@@ -6,7 +6,7 @@ import com.mall4j.cloud.common.cache.util.RedisUtil;
 /**
  * 适配验证码在redis的存储
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/8/12
  */
 public class CaptchaCacheServiceRedisImpl implements CaptchaCacheService {

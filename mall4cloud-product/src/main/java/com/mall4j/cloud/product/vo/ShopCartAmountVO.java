@@ -4,7 +4,7 @@ import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 
 /**
- * @author FrozenWatermelon
+ * @author zyc
  */
 @ApiModel("购物车合计")
 public class ShopCartAmountVO {

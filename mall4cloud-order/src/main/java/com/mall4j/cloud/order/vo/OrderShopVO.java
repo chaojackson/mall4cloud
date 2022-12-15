@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * 订单下的每个店铺
  *
- * @author FrozenWatermelon
+ * @author zyc
  */
 public class OrderShopVO implements Serializable {
 

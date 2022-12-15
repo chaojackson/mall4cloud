@@ -3,7 +3,7 @@ package com.mall4j.cloud.common.constant;
 import com.mall4j.cloud.common.feign.FeignInsideAuthConfig;
 
 /**
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/12/8
  */
 public interface Auth {

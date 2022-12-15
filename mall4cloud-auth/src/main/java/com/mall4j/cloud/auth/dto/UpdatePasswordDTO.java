@@ -8,7 +8,7 @@ import javax.validation.constraints.NotNull;
 /**
  * 更新密码
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/09/21
  */
 public class UpdatePasswordDTO {

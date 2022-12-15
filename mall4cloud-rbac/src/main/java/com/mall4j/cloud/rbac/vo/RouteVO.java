@@ -3,7 +3,7 @@ package com.mall4j.cloud.rbac.vo;
 import io.swagger.annotations.ApiModelProperty;
 
 /**
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/8/6
  */
 public class RouteVO {

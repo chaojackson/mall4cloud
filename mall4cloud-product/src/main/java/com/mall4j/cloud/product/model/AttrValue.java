@@ -6,7 +6,7 @@ import com.mall4j.cloud.common.model.BaseModel;
 /**
  * 属性值信息
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020-10-28 15:27:24
  */
 public class AttrValue extends BaseModel implements Serializable{

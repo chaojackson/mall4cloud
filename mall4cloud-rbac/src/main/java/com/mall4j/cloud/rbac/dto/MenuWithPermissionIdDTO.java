@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * 菜单id和权限id列表
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/9/18
  */
 public class MenuWithPermissionIdDTO {

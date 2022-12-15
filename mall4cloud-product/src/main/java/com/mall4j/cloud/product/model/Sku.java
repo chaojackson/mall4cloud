@@ -7,7 +7,7 @@ import com.mall4j.cloud.common.model.BaseModel;
 /**
  * sku信息
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020-12-08 15:54:22
  */
 public class Sku extends BaseModel implements Serializable{

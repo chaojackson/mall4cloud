@@ -7,7 +7,7 @@ import javax.validation.constraints.NotNull;
 import java.util.Arrays;
 
 /**
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/11/16
  */
 public class EsPageDTO{

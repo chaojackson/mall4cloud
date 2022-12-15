@@ -5,7 +5,7 @@ import io.swagger.annotations.ApiModelProperty;
 import java.util.List;
 
 /**
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/9/8
  */
 public class PageVO<T> {

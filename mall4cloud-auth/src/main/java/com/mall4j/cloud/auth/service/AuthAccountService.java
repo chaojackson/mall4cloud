@@ -7,7 +7,7 @@ import com.mall4j.cloud.common.response.ServerResponseEntity;
 /**
  * 统一账户信息
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/7/2
  */
 public interface AuthAccountService {

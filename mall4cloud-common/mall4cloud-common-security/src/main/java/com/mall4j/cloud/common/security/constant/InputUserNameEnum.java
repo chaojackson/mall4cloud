@@ -2,7 +2,7 @@ package com.mall4j.cloud.common.security.constant;
 
 /**
  * 输入的用户名类型枚举 1.username 2.mobile 3.email
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/7/3
  */
 public enum InputUserNameEnum {

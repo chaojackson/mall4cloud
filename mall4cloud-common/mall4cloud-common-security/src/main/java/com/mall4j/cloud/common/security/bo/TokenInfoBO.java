@@ -5,7 +5,7 @@ import com.mall4j.cloud.api.auth.bo.UserInfoInTokenBO;
 /**
  * token信息，该信息存在redis中
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/7/2
  */
 public class TokenInfoBO {

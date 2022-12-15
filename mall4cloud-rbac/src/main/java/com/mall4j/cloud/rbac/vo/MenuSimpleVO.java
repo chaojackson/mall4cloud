@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * 菜单管理VO
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020-09-15 16:35:01
  */
 public class MenuSimpleVO{

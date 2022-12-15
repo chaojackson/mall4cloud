@@ -3,7 +3,7 @@ package com.mall4j.cloud.api.vo.search;
 import io.swagger.annotations.ApiModelProperty;
 
 /**
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/11/17
  */
 public class BrandSearchVO {

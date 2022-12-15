@@ -18,7 +18,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.validation.Valid;
 
 /**
- * @author FrozenWatermelon
+ * @author zyc
  */
 @RestController
 @RequestMapping("/pay")

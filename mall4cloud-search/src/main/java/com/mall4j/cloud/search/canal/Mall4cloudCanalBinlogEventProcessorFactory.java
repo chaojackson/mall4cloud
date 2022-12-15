@@ -10,7 +10,7 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentMap;
 
 /**
- * @author FrozenWatermelon
+ * @author zyc
  */
 public class Mall4cloudCanalBinlogEventProcessorFactory implements CanalBinlogEventProcessorFactory {
 

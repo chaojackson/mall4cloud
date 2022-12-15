@@ -15,7 +15,7 @@ import java.util.List;
 /**
  * 分类信息
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020-10-28 15:27:24
  */
 @RestController("appCategoryController")

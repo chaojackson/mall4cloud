@@ -6,7 +6,7 @@ import com.mall4j.cloud.common.model.BaseModel;
 /**
  * 菜单资源
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020-09-15 16:36:50
  */
 public class MenuPermission extends BaseModel implements Serializable{

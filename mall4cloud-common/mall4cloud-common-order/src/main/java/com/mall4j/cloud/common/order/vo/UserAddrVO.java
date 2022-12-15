@@ -6,7 +6,7 @@ import io.swagger.annotations.ApiModelProperty;
 /**
  * 用户地址VO
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020-12-07 15:50:02
  */
 public class UserAddrVO extends BaseVO{

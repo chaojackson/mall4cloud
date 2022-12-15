@@ -23,7 +23,7 @@ import java.util.stream.Collectors;
 
 /**
  * 购物车适配器
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/12/07
  */
 @Component

@@ -10,7 +10,7 @@ import com.mall4j.cloud.rbac.vo.MenuVO;
 /**
  * 菜单管理
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020-09-14 16:27:55
  */
 public interface MenuService {

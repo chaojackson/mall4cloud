@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * 角色DTO
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020-09-17 19:15:44
  */
 public class RoleDTO{

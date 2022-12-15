@@ -7,7 +7,7 @@ import com.mall4j.cloud.common.model.BaseModel;
 /**
  * spu信息
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020-12-08 15:54:23
  */
 public class Spu extends BaseModel implements Serializable{

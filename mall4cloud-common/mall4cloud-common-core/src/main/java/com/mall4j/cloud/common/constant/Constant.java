@@ -2,7 +2,7 @@ package com.mall4j.cloud.common.constant;
 
 /**
  * 常量
- * @author FrozenWatermelon
+ * @author zyc
  */
 public class Constant {
 

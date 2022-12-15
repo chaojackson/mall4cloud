@@ -6,7 +6,7 @@ import com.mall4j.cloud.common.model.BaseModel;
 /**
  * 角色
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020-09-17 19:15:44
  */
 public class Role extends BaseModel implements Serializable{

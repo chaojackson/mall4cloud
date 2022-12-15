@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/11/25
  */
 @FeignClient(value = "mall4cloud-rbac",contextId = "userRole")

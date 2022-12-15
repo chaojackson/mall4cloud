@@ -6,7 +6,7 @@ import com.mall4j.cloud.common.model.BaseModel;
 /**
  * 库存锁定信息
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020-12-22 16:12:10
  */
 public class SkuStockLock extends BaseModel implements Serializable{

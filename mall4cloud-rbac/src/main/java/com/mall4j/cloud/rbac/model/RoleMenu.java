@@ -5,7 +5,7 @@ import com.mall4j.cloud.common.model.BaseModel;
 /**
  * 角色与菜单对应关系
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/6/24
  */
 public class RoleMenu extends BaseModel {

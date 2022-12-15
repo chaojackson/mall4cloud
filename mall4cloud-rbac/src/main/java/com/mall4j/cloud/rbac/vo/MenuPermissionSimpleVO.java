@@ -5,7 +5,7 @@ import io.swagger.annotations.ApiModelProperty;
 /**
  * 菜单资源简易VO
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020-09-17 16:35:01
  */
 public class MenuPermissionSimpleVO {

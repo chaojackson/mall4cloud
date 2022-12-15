@@ -26,7 +26,7 @@ import java.util.Map;
  * 1. 分布式id是通过美团的leaf生成的，是需要与mall4cloud-leaf数据库 当中 leaf_alloc表中 biz_tag字段相关联的key
  * 2. 为了注入分布式id更加方便，规定为DistributedId为注解的字段加入该字段
  * @see DistributedId
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/9/9
  */
 @Component

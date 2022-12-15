@@ -8,7 +8,7 @@ import io.swagger.annotations.ApiModelProperty;
 /**
  * 店铺详情VO
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020-12-05 15:50:25
  */
 public class ShopDetailVO extends BaseVO{

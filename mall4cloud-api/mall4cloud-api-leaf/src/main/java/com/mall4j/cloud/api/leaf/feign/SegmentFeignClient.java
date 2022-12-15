@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 /**
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/09/08
  */
 @FeignClient(value = "mall4cloud-leaf",contextId ="segment")

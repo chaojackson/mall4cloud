@@ -8,7 +8,7 @@ import com.mall4j.cloud.common.model.BaseModel;
 /**
  * 属性信息
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020-10-28 15:27:23
  */
 public class Attr extends BaseModel implements Serializable{

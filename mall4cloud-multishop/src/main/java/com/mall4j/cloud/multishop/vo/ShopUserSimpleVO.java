@@ -5,7 +5,7 @@ import com.mall4j.cloud.common.serializer.ImgJsonSerializer;
 import io.swagger.annotations.ApiModelProperty;
 
 /**
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/9/2
  */
 public class ShopUserSimpleVO {

@@ -3,7 +3,7 @@ package com.mall4j.cloud.api.rbac.dto;
 import javax.validation.constraints.NotNull;
 
 /**
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/11/27
  */
 public class ClearUserPermissionsCacheDTO {

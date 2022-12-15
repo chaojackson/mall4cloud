@@ -6,7 +6,7 @@ import com.mall4j.cloud.common.model.BaseModel;
 /**
  * 购物车
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020-11-21 10:01:23
  */
 public class ShopCartItem extends BaseModel implements Serializable{

@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletRequestWrapper;
 /**
  * xss 攻击过滤
  *
- * @author FrozenWatermelon
+ * @author zyc
  */
 public class XssWrapper extends HttpServletRequestWrapper {
 

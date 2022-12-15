@@ -6,7 +6,7 @@ import com.mall4j.cloud.rbac.mapper.RoleMenuMapper;
 import com.mall4j.cloud.rbac.service.RoleMenuService;
 
 /**
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/6/23
  */
 @Service

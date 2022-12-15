@@ -31,7 +31,7 @@ import java.util.Objects;
 /**
  * 授权过滤，只要实现AuthConfigAdapter接口，添加对应路径即可：
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/7/11
  */
 @Component

@@ -5,7 +5,7 @@ import io.swagger.annotations.ApiModelProperty;
 /**
  * 验证码登陆
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/7/1
  */
 public class CaptchaAuthenticationDTO extends AuthenticationDTO {

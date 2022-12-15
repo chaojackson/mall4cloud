@@ -5,7 +5,7 @@ import io.swagger.annotations.ApiModelProperty;
 /**
  * 商品详情信息DTO
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020-10-28 15:27:24
  */
 public class SpuDetailDTO{

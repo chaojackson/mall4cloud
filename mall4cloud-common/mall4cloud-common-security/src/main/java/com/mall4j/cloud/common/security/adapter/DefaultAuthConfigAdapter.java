@@ -10,7 +10,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/7/16
  */
 public class DefaultAuthConfigAdapter implements AuthConfigAdapter {

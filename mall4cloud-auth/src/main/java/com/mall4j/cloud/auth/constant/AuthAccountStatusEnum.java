@@ -2,7 +2,7 @@ package com.mall4j.cloud.auth.constant;
 
 /**
  * 统一账户信息状态
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/09/22
  */
 public enum AuthAccountStatusEnum {

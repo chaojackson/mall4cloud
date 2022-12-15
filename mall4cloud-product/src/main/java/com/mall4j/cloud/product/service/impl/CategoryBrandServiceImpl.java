@@ -14,7 +14,7 @@ import java.util.List;
 /**
  * 品牌分类关联信息
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020-10-28 15:27:24
  */
 @Service

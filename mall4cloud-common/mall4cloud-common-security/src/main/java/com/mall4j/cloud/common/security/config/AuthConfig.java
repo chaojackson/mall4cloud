@@ -16,7 +16,7 @@ import javax.servlet.DispatcherType;
 /**
  * 授权配置
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/7/11
  */
 @Configuration

@@ -5,7 +5,7 @@ import io.swagger.annotations.ApiModelProperty;
 import javax.validation.constraints.NotNull;
 
 /**
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020-11-20 15:47:32
  */
 public class ChangeShopCartItemDTO {

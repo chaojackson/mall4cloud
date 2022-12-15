@@ -5,7 +5,7 @@ import org.apache.ibatis.annotations.Param;
 import java.util.List;
 
 /**
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/6/24
  */
 public interface UserRoleMapper {

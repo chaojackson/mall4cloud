@@ -6,7 +6,7 @@ import io.swagger.annotations.ApiModelProperty;
 /**
  * 订单项VO
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020-12-04 11:27:35
  */
 public class OrderItemDTO extends BaseVO{

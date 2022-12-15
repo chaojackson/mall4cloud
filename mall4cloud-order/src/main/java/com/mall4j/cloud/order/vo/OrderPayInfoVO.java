@@ -7,7 +7,7 @@ import java.util.Date;
 /**
  * 订单支付记录VO
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020-12-04 11:27:35
  */
 public class OrderPayInfoVO extends BaseVO{

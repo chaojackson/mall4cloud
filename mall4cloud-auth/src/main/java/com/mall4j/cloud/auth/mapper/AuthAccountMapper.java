@@ -6,7 +6,7 @@ import com.mall4j.cloud.common.security.bo.AuthAccountInVerifyBO;
 import org.apache.ibatis.annotations.Param;
 
 /**
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/7/2
  */
 public interface AuthAccountMapper {

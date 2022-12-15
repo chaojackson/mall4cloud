@@ -8,7 +8,7 @@ import javax.validation.constraints.NotNull;
 /**
  * 用于登陆传递账号密码
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/7/1
  */
 public class AuthenticationDTO {

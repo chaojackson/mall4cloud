@@ -6,7 +6,7 @@ import com.mall4j.cloud.rbac.mapper.UserRoleMapper;
 import com.mall4j.cloud.rbac.service.UserRoleService;
 
 /**
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/6/23
  */
 @Service

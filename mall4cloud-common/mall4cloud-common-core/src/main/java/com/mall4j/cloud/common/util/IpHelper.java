@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServletRequest;
 
 /**
  * IP帮助工具
- * @author FrozenWatermelon
+ * @author zyc
  */
 public class IpHelper {
     private static final String UNKNOWN = "unknown";

@@ -9,7 +9,7 @@ import java.util.Objects;
 /**
  * 统一的返回数据
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/7/3
  */
 public class ServerResponseEntity<T> implements Serializable {

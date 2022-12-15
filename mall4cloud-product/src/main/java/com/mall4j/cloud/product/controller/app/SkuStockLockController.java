@@ -17,7 +17,7 @@ import javax.validation.Valid;
 /**
  * 库存锁定信息
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020-12-22 16:12:10
  */
 @RestController("appSkuStockLockController")

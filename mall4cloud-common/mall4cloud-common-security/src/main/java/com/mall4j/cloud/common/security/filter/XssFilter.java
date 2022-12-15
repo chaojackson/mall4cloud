@@ -16,7 +16,7 @@ import java.io.IOException;
 /**
  * 一些简单的安全过滤： xss
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/7/11
  */
 @WebFilter(filterName = "xssFilter")

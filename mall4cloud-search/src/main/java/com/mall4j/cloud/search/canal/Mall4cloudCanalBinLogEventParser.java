@@ -15,7 +15,7 @@ import org.slf4j.LoggerFactory;
 import java.util.*;
 
 /**
- * @author FrozenWatermelon
+ * @author zyc
  */
 public class Mall4cloudCanalBinLogEventParser implements CanalBinLogEventParser {
 

@@ -7,7 +7,7 @@ import com.mall4j.cloud.common.database.dto.PageDTO;
 import com.mall4j.cloud.common.database.vo.PageVO;
 
 /**
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/9/8
  */
 public class PageUtil {

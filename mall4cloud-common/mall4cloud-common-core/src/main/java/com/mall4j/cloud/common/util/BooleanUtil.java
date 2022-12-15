@@ -3,7 +3,7 @@ package com.mall4j.cloud.common.util;
 import java.util.Objects;
 
 /**
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/9/2
  */
 public class BooleanUtil {

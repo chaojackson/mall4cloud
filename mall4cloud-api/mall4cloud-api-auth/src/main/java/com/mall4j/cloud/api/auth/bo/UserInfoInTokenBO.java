@@ -7,7 +7,7 @@ import com.mall4j.cloud.api.auth.constant.SysTypeEnum;
  *
  * com.mall4j.cloud.auth.service.impl.AuthAccountServiceImpl
  * com.mall4j.cloud.auth.controller.LoginController
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/7/3
  */
 public class UserInfoInTokenBO {

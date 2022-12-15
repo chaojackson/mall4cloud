@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Configuration;
 import java.util.Properties;
 
 /**
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/8/12
  */
 @Configuration

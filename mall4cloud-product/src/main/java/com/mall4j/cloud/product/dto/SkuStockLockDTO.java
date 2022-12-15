@@ -5,7 +5,7 @@ import io.swagger.annotations.ApiModelProperty;
 /**
  * 库存锁定信息DTO
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020-12-22 16:12:10
  */
 public class SkuStockLockDTO{

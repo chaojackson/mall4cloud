@@ -6,7 +6,7 @@ import com.mall4j.cloud.common.model.BaseModel;
 /**
  * 统一账户信息
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/07/02
  */
 public class AuthAccount extends BaseModel {

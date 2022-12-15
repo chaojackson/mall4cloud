@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * 单个店铺的订单信息
- * @author FrozenWatermelon
+ * @author zyc
  */
 public class ShopCartOrderVO implements Serializable{
 

@@ -7,7 +7,7 @@ import org.jsoup.safety.Whitelist;
 /**
  * 描述: 过滤 HTML 标签中 XSS 代码
  *
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/7/11
  */
 public class XssUtil {

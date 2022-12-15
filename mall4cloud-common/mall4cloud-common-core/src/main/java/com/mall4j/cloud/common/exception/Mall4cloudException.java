@@ -3,7 +3,7 @@ package com.mall4j.cloud.common.exception;
 import com.mall4j.cloud.common.response.ResponseEnum;
 
 /**
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/7/11
  */
 public class Mall4cloudException extends RuntimeException {

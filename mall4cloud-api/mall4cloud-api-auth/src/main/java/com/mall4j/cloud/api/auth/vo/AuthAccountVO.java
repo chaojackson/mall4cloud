@@ -3,7 +3,7 @@ package com.mall4j.cloud.api.auth.vo;
 import io.swagger.annotations.ApiModelProperty;
 
 /**
- * @author FrozenWatermelon
+ * @author zyc
  * @date 2020/9/22
  */
 public class AuthAccountVO {
