@@ -2,11 +2,11 @@ server:
   port: 9106
 spring:
   application:
-    name: @artifactId@
+    name: @artifactId@  # 执行mvn package等maven操作时，获取pom.xml中得属性，这种配置参数在代码中得引用方式不变  就是这个 <artifactId>mall4cloud-order</artifactId>里面的值
   cloud:
     nacos:
       discovery:
-        server-addr: ${NACOS_HOST:localhost}:${NACOS_PORT:8848}
+        server-addr: ${NACOS_HOST:localhost}:${NACOS_PORT:8848}  # 配置参数并设置默认值，【冒号】后面是默认值
         username: nacos
         password: nacos
       config:
